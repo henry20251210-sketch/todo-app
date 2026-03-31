@@ -39,7 +39,7 @@
 ## 🚀 快速开始
 
 ### 在线使用
-直接访问 [https://henry20251210-sketch.github.io/todo-app/](https://henry20251210-sketch.github.io/todo-app/) 即可使用（需要先启用GitHub Pages）。
+直接访问 [https://henry20251210-sketch.github.io/todo-app/](https://henry20251210-sketch.github.io/todo-app/) 即可使用。
 
 ### 本地运行
 1. 克隆或下载项目代码
