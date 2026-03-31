@@ -205,7 +205,7 @@ http://localhost:8000/test-performance.html
 ## 📞 支持与反馈
 
 如果在使用过程中遇到问题或有改进建议，请：
-1. 查看 [Issues](https://github.com/your-username/todo-app/issues) 中是否已有类似问题
+1. 查看 [Issues](https://github.com/henry20251210-sketch/todo-app/issues) 中是否已有类似问题
 2. 创建新的Issue描述问题
 3. 通过邮箱联系开发者
 
